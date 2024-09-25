@@ -7,7 +7,7 @@ Original credit to [tommy351](https://github.com/tommy351/gin-csrf), this fork m
 ## Installation
 
 ``` bash
-$ go get github.com/utrack/gin-csrf
+$ go get github.com/stuartaccent/gin-csrf
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ import (
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-contrib/sessions/cookie"
 	"github.com/gin-gonic/gin"
-	"github.com/utrack/gin-csrf"
+	"github.com/stuartaccent/gin-csrf"
 )
 
 func main() {
